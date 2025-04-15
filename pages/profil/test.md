@@ -6,4 +6,4 @@ Kan jeg legge til masse her?
 
 # Og en overskrift?
 
-![sdf](/public/images/2468483066ffb8f58a11c120ff2da1ea.png)
+![asd](/doc-test/public/images/a7294f13a9fec26e6b7723ee6cfa5206.png)
